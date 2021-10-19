@@ -7,19 +7,7 @@ Neste projeto foi desenvolvidas queries mongoDB para Executar buscas complexas n
 # Sumário
 
 - [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Como desenvolver](#como-desenvolver)
-  - [Linter](#linter)
-  - [Instrução para estrutura dos arquivos](#Instrução-para-estrutura-dos-arquivos)
-  - [Instruções para restaurar o banco de dados `aggregations`](#Instruções-para-restaurar-o-banco-de-dados-aggregations)
-  - [Execução de testes unitários](#execução-de-testes-unitários)
+- [Instruções para restaurar o banco de dados `aggregations`](#Instruções-para-restaurar-o-banco-de-dados-aggregations)
 - [Requisitos do projeto](#requisitos-do-projeto)
   - [Lista de requisitos](#lista-de-requisitos)
     - [Desafio 1](#Desafio-1)
@@ -36,7 +24,6 @@ Neste projeto foi desenvolvidas queries mongoDB para Executar buscas complexas n
     - [Desafio 12](#Desafio-12)
     - [Desafio 13](#Desafio-13)
     - [Desafio 14](#Desafio-14)
-- [Avisos Finais](#avisos-finais)
 
 ---
 
@@ -47,7 +34,7 @@ Neste projeto você será capaz de:
 
 ---
 
-## Instruções para restaurar o banco de dados `aggregations`
+# Instruções para restaurar o banco de dados `aggregations`
 
 - Na raiz do diretório do projeto, execute o seguinte comando que fará a restauração da base de dados `aggregations`:
     ```sh
